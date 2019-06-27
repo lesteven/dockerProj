@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-sudo docker build -t proj:node .
+sudo docker build -t lesteven/node:v2 .

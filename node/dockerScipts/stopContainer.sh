@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo docker container stop proj
-sudo docker container rm proj
+sudo docker container stop nodev2
+sudo docker container rm nodev2
