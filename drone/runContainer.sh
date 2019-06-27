@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source local.config
+source drone.config
 
 sudo docker container run \
     --volume=/var/run/docker.sock:/var/run/docker.sock \

@@ -1,2 +1,2 @@
 
-sudo docker image rm proj:node
+sudo docker image rm lesteven/node:v2
